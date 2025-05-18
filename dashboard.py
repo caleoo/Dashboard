@@ -11,7 +11,6 @@ A programação evoluiu desde os algoritmos de Ada Lovelace até as linguagens m
 Este dashboard apresenta a popularidade das linguagens de programação ao longo do tempo.
 """)
 
-# Dados fictícios de popularidade (substitua por dados reais se disponíveis)
 dados = {
     'Ano': list(range(2010, 2026)),
     'Python': [5, 6, 7, 8, 10, 12, 15, 18, 22, 27, 33, 40, 48, 57, 67, 78],
