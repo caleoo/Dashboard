@@ -2,7 +2,7 @@
 
 Este projeto é um dashboard interativo feito com Python e Streamlit, desenvolvido para apresentação em uma feira de ciências. Ele demonstra a evolução da programação e a importância que ela tem para a sociedade atual e futura, através de gráficos interativos que mostram a popularidade de linguagens de programação ao longo do tempo.
 
----
+
 
 ##  Objetivo
 
@@ -10,7 +10,7 @@ Este projeto é um dashboard interativo feito com Python e Streamlit, desenvolvi
 - Explicar como a **programação impacta a sociedade** e continuará sendo essencial no futuro.
 - Apresentar dados de forma **interativa e visual**, facilitando a compreensão para estudantes e visitantes.
 
----
+
 
 ##  Introdução ao Tema
 
@@ -18,7 +18,7 @@ A programação surgiu da necessidade de instruir máquinas a realizarem tarefas
 
 No futuro, a programação será ainda mais importante com o avanço da automação, robótica e inteligência artificial. Aprender a programar é como aprender a falar a língua do futuro.
 
----
+
 
 ##  Como Rodar o Projeto
 
